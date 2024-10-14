@@ -29,8 +29,8 @@ class HomePage extends StatelessWidget {
           children: <Widget>[
             SizedBox(height: 100),
             Image.asset(
-            'assets/login.png', // Ganti dengan path gambar Anda
-            width: 178, // Sesuaikan ukuran gambar
+            'assets/login.png',
+            width: 178,
             height: 109,
             ),
             SizedBox(height: 40),
